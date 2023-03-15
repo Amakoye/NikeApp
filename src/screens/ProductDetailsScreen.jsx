@@ -18,6 +18,7 @@ const ProductDetailsScreen = () => {
   const addToCart = () => {
     console.warn("Add to cart");
   };
+
   return (
     <View>
       <ScrollView>
